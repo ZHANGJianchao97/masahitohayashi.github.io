@@ -17,7 +17,7 @@ We have the following tags for each post:
 
 
 
-###  Posts with images
+###  Posts with images test
 
 
 If you want to use an image to represent the post (which will appear on the rightmost of the title), you have to specify the following tags:
